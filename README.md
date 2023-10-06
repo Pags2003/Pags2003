@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratham Golhani</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-![](https://komarev.com/ghpvc/?username=pags2003&base=1000)
+![](https://komarev.com/ghpvc/?username=pags2003&base=531&color=orange&style=for-the-badge)
 
 <p align="left"> <a href="https://www.linkedin.com/in/pg1823/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pg1823" /></a> 
 
