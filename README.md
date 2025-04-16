@@ -11,11 +11,7 @@
 
  <a href="https://www.instagram.com/p_golhani_2003/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="p_golhani_2003" /></a> </p>
 
-- 🌱 I’m currently learning **ChatGPT Prompts and ReactJS**
-
-- 👨‍💻 All of my projects are available at [https://prathamgolhani.netlify.com/](https://prathamgolhani.netlify.com/)
-
-- 💬 Ask me about **Python & UI/UX Designing**
+- 👨‍💻 All of my projects are available at [https://prathamgolhani.netlify.app/](https://prathamgolhani.netlify.app/)
 
 - 📫 How to reach me **prathamgolhani@gmail.com**
 
